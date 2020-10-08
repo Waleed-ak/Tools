@@ -51,7 +51,7 @@ Ankh.NoLoad
 /01 Tools/Tools/GlobalSuppressions.cs
 /01 Tools/Tools/Settings.StyleCop
 *.Cache
-/.vs/
+.vs/
 GCopLog.txt
 UpgradeLog*.htm
 /03 DbEntity/UserManagement/UserManagement.ruleset
